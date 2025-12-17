@@ -1,6 +1,6 @@
 /* Sections */
 .faqs__item {
-  margin-bottom: 16px;
+  margin-bottom: 20px;
 }
 .faqs__question {
   font-weight: 600;
@@ -10,7 +10,7 @@
 /* Snippets */
 .product-card {
   border: 1px solid #eee;
-  padding: 16px;
+  padding: 20px;
 }
 
 /* Global */
