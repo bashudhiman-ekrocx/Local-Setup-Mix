@@ -1,0 +1,21 @@
+/* Sections */
+.faqs__item {
+  margin-bottom: 16px;
+}
+.faqs__question {
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Snippets */
+.product-card {
+  border: 1px solid #eee;
+  padding: 16px;
+}
+
+/* Global */
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/*# sourceMappingURL=frontend.css.map*/
